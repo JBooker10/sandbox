@@ -1,0 +1,22 @@
+.todoapp {
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+}
+
+h1 {
+    text-align:center;
+    padding: 1em 0;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.new-todo {
+    display:block;
+    margin:auto;
+    font-size:1.5em;
+    width:350px;
+    text-align:center;
+    border:none;
+    outline:none;
+}
