@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 99vh;
+}
+
+
+.bar-chart {
+  background-color: #C7D9D9;
+}
